@@ -1,0 +1,5 @@
+<resources>
+    <color name="md_theme_primary">#B71C1C</color>
+    <color name="signal_buy_bg">#FFFFCDD2</color>
+    <color name="signal_sell_bg">#FFFFF9C4</color>
+</resources>

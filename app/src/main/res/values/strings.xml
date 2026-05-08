@@ -1,0 +1,30 @@
+﻿<resources>
+    <string name="app_name">股小判</string>
+    <string name="login_title">股小判——散户炒股精灵</string>
+    <string name="phone_hint">请输入手机号</string>
+    <string name="login_button">登 录</string>
+    <string name="trial_days_left">剩余体验天数：%d 天</string>
+    <string name="auth_expired">授权已到期，请联系 %s 获取授权码</string>
+    <string name="auth_code_hint">请输入授权码</string>
+    <string name="contact_info">联系微信/电话：%s</string>
+    <string name="crawl_progress">数据更新中… %d%%</string>
+    <string name="crawl_complete">数据更新完成</string>
+    <string name="recrawl">重新抓取数据</string>
+    <string name="my_holdings">我的持仓</string>
+    <string name="my_watchlist">我的关注</string>
+    <string name="clear_all">清空</string>
+    <string name="add">添加</string>
+    <string name="delete">删除</string>
+    <string name="update_watchlist">更新我的关注</string>
+    <string name="analyze_button">小判一下</string>
+    <string name="screen_settings">选股条件</string>
+    <string name="market_cap_range">市值范围</string>
+    <string name="rating_months">评级统计月数</string>
+    <string name="exclude_industry">排除行业</string>
+    <string name="include_concept">包含概念题材</string>
+    <string name="circulating_cap">流通市值</string>
+    <string name="total_cap">总市值</string>
+    <string name="no_data">暂无数据</string>
+    <string name="analyzing">正在分析…</string>
+    <string name="analysis_complete">分析完成</string>
+</resources>
